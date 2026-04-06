@@ -1,11 +1,7 @@
 ## 👨‍💻 GitHub statistics
 ![Here some of my GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d-c0d3r&theme=github_dark)
 
-## 🚀 About Me
-I am a passionate Python Developer interested in developing open-source projects and learning different frameworks 😀
-
 ## 🛠 Skills
-Here're my technical skills:
 
 <img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="CSS3" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -24,12 +20,3 @@ Here're my technical skills:
 <br/>
 <br/>
 
-## 🔗 Links
-
-Any questions? Contact Me!
-
-[![portfolio](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youngling-coder.top/)
-[![telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/youngling_coder/)
-[![leetcode](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/youngling.coder)
-[![email](https://img.shields.io/badge/E--mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:shyrokov.dmytro@proton.me/)
-[![leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/youngling-coder/)
